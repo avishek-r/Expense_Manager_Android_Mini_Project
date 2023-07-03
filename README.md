@@ -1,4 +1,5 @@
-## Expense Manager Android Mini Project
+# Expense Manager (Android Mini Project)
+
 # Description
 The Expense Manager Android Mini Project is a mobile application designed to help users track and manage their expenses. It provides a convenient way to record and categorize expenses, set budgets, and generate reports to analyze spending habits. This project aims to provide a user-friendly and efficient solution for personal finance management on the Android platform.
 
